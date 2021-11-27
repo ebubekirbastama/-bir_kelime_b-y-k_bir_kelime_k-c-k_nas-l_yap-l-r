@@ -1,1 +1,1 @@
-# -bir_kelime_b-y-k_bir_kelime_k-c-k_nas-l_yap-l-r
+# Bir kelime büyük bir kelime küçük nasıl yapılır
