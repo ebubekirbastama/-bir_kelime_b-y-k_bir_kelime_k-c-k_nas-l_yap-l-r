@@ -1,0 +1,10 @@
+C:\Users\EBS\source\repos\bir kelime büyük bir kelime kücük nasıl yapılır\bin\Debug\bir kelime büyük bir kelime kücük nasıl yapılır.exe.config
+C:\Users\EBS\source\repos\bir kelime büyük bir kelime kücük nasıl yapılır\bin\Debug\bir kelime büyük bir kelime kücük nasıl yapılır.exe
+C:\Users\EBS\source\repos\bir kelime büyük bir kelime kücük nasıl yapılır\bin\Debug\bir kelime büyük bir kelime kücük nasıl yapılır.pdb
+C:\Users\EBS\source\repos\bir kelime büyük bir kelime kücük nasıl yapılır\obj\Debug\bir kelime büyük bir kelime kücük nasıl yapılır.csproj.AssemblyReference.cache
+C:\Users\EBS\source\repos\bir kelime büyük bir kelime kücük nasıl yapılır\obj\Debug\bir_kelime_büyük_bir_kelime_kücük_nasıl_yapılır.Form1.resources
+C:\Users\EBS\source\repos\bir kelime büyük bir kelime kücük nasıl yapılır\obj\Debug\bir_kelime_büyük_bir_kelime_kücük_nasıl_yapılır.Properties.Resources.resources
+C:\Users\EBS\source\repos\bir kelime büyük bir kelime kücük nasıl yapılır\obj\Debug\bir kelime büyük bir kelime kücük nasıl yapılır.csproj.GenerateResource.cache
+C:\Users\EBS\source\repos\bir kelime büyük bir kelime kücük nasıl yapılır\obj\Debug\bir kelime büyük bir kelime kücük nasıl yapılır.csproj.CoreCompileInputs.cache
+C:\Users\EBS\source\repos\bir kelime büyük bir kelime kücük nasıl yapılır\obj\Debug\bir kelime büyük bir kelime kücük nasıl yapılır.exe
+C:\Users\EBS\source\repos\bir kelime büyük bir kelime kücük nasıl yapılır\obj\Debug\bir kelime büyük bir kelime kücük nasıl yapılır.pdb
